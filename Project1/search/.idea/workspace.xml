@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4121b14d-e5b7-4f15-aa2c-7b8ee2151a44" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Project2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project0/Project 0.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project0/Project 0.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project0/buyLotsOfFruit.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project0/buyLotsOfFruit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project0/foreach.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project0/foreach.py" afterDir="false" />
@@ -12,7 +13,7 @@
       <change beforePath="$PROJECT_DIR$/../../Project0/shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project0/shop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project0/shopSmart.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project0/shopSmart.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project0/shopTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project0/shopTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/searchAgents.py" beforeDir="false" afterPath="$PROJECT_DIR$/searchAgents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/searchAgents.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="545" lean-forward="true" selection-start-line="545" selection-end-line="545" />
+            <state relative-caret-position="416">
+              <caret line="544" lean-forward="true" selection-start-line="544" selection-end-line="544" />
             </state>
           </provider>
         </entry>
@@ -238,8 +239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/searchAgents.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="545" lean-forward="true" selection-start-line="545" selection-end-line="545" />
+        <state relative-caret-position="416">
+          <caret line="544" lean-forward="true" selection-start-line="544" selection-end-line="544" />
         </state>
       </provider>
     </entry>
